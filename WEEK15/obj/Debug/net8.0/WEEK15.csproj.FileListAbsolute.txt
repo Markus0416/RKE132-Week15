@@ -1,0 +1,14 @@
+C:\Users\mursa\source\repos\WEEK15\WEEK15\bin\Debug\net8.0\WEEK15.exe
+C:\Users\mursa\source\repos\WEEK15\WEEK15\bin\Debug\net8.0\WEEK15.deps.json
+C:\Users\mursa\source\repos\WEEK15\WEEK15\bin\Debug\net8.0\WEEK15.runtimeconfig.json
+C:\Users\mursa\source\repos\WEEK15\WEEK15\bin\Debug\net8.0\WEEK15.dll
+C:\Users\mursa\source\repos\WEEK15\WEEK15\bin\Debug\net8.0\WEEK15.pdb
+C:\Users\mursa\source\repos\WEEK15\WEEK15\obj\Debug\net8.0\WEEK15.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mursa\source\repos\WEEK15\WEEK15\obj\Debug\net8.0\WEEK15.AssemblyInfoInputs.cache
+C:\Users\mursa\source\repos\WEEK15\WEEK15\obj\Debug\net8.0\WEEK15.AssemblyInfo.cs
+C:\Users\mursa\source\repos\WEEK15\WEEK15\obj\Debug\net8.0\WEEK15.csproj.CoreCompileInputs.cache
+C:\Users\mursa\source\repos\WEEK15\WEEK15\obj\Debug\net8.0\WEEK15.dll
+C:\Users\mursa\source\repos\WEEK15\WEEK15\obj\Debug\net8.0\refint\WEEK15.dll
+C:\Users\mursa\source\repos\WEEK15\WEEK15\obj\Debug\net8.0\WEEK15.pdb
+C:\Users\mursa\source\repos\WEEK15\WEEK15\obj\Debug\net8.0\WEEK15.genruntimeconfig.cache
+C:\Users\mursa\source\repos\WEEK15\WEEK15\obj\Debug\net8.0\ref\WEEK15.dll

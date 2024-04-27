@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mursa\\source\\repos\\WEEK15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{571E1C22-2ECE-43F7-A52D-C158A11CADD8}|WEEK15\\WEEK15.csproj|c:\\users\\mursa\\source\\repos\\week15\\week15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{571E1C22-2ECE-43F7-A52D-C158A11CADD8}|WEEK15\\WEEK15.csproj|solutionrelative:week15\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mursa\\source\\repos\\WEEK15\\WEEK15\\Program.cs",
+              "RelativeDocumentMoniker": "WEEK15\\Program.cs",
+              "ToolTip": "C:\\Users\\mursa\\source\\repos\\WEEK15\\WEEK15\\Program.cs",
+              "RelativeToolTip": "WEEK15\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAUwBQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T09:21:02.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
